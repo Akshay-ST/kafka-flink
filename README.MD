@@ -79,4 +79,7 @@ docker exec -it kafka kafka-topics --delete --topic old-folks-topic --bootstrap-
 
 ## 🎯 **Summary**
 ✅ Kafka Producer sends **customer data** to `customer-input`  
-✅ Flink categorizes data and sends it to **2 different topics
+✅ Flink categorizes data and sends it to **2 different topics**  
+✅ Kafka Consumers **read the processed messages** in real-time  
+
+🚀 Now you have a **real-time streaming pipeline** with Kafka & Flink! 🎉
