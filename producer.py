@@ -13,6 +13,9 @@ customers = [
     {"name": "Bob", "age": 30, "city": "London"},
     {"name": "Charlie", "age": 19, "city": "Paris"},
     {"name": "David", "age": 27, "city": "Berlin"},
+    {"name": "David1", "age": 24, "city": "Berlin"},
+    {"name": "David2", "age": 28, "city": "Berlin"},
+    {"name": "David3", "age": 24, "city": "Berlin"}
 ]
 
 while True:
